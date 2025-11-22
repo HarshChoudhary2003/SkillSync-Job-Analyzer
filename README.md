@@ -1,4 +1,4 @@
-# 🚀 SkillSync Pro: Intelligent Job Market Analyzer & Salary Predictor
+#  SkillSync Pro: Intelligent Job Market Analyzer & Salary Predictor
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
@@ -9,7 +9,7 @@
 
 SkillSync Pro is an end-to-end Data Science application that automates the job market research process. It scrapes live job data, uses NLP to extract high-demand skills, and uses Machine Learning to estimate market value salaries based on candidate profiles.
 
-## 🚀 Live Demo
+## 💻 Live Demo
 
 **Try the live application here:** [SkillSync Pro · Streamlit](https://skillsyncpro.streamlit.app/)
 
