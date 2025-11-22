@@ -95,17 +95,11 @@ pie title Technology Stack Distribution
 ## ⚙️ Installation & Usage
 
 **1. Clone the Repository**
-```bash
-git clone [https://github.com/YOUR_USERNAME/SkillSync-Job-Analyzer.git](https://github.com/YOUR_USERNAME/SkillSync-Job-Analyzer.git)
-cd SkillSync-Job-Analyzer
 
+git clone [https://github.com/HarshChoudhary2003/SkillSync-Job-Analyzer.git](https://github.com/HarshChoudhary2003/SkillSync-Job-Analyzer.git)
 
 ---
 
-## 📸 Screenshots & Visuals
-
-### Dashboard Preview
-> Add your app screenshots here to showcase the UI/UX
 
 ---
 
